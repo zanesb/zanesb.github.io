@@ -1,5 +1,5 @@
 ---
-title: Landing Page
+title: home
 ---
 
 Hello world
