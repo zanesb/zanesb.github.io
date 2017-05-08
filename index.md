@@ -1,1 +1,5 @@
-hi
+---
+title: Landing Page
+---
+
+Hello world
