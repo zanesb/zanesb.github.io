@@ -1,4 +1,6 @@
 github: [metadata]
+title: zanesb
+description: A music blog
 #theme: minima
 theme: jekyll-theme-cayman
 gems:
