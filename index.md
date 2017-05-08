@@ -1,6 +1,5 @@
 ---
-layout: page
-title: home
+layout: default
 ---
 
-Hello world
+# Music Theory 4 Presentation
