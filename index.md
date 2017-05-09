@@ -8,6 +8,4 @@ I write cool music
 
 And I wrote a cool music over a few days for this presentation.
 
-<object data="https://github.com/zanesb/zanesb.github.io/blob/master/score.pdf" type="application/pdf">
-  <embed src="https://github.com/zanesb/zanesb.github.io/blob/master/score.pdf" type="application/pdf" />
-</object>
+<iframe style="position: absolute; height: 100%" src="https://github.com/zanesb/zanesb.github.io/blob/master/score.pdf" />
