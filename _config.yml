@@ -1,8 +1,8 @@
 github: [metadata]
 title: zanesb
 description: A music blog
-#theme: minima
-theme: jekyll-theme-cayman
+theme: minima
+#theme: jekyll-theme-cayman
 gems:
   - jekyll-coffeescript
   - jekyll-paginate
