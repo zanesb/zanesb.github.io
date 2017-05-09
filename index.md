@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![red-panda](http://www.jqueryscript.net/images/Simplest-Responsive-jQuery-Image-Lightbox-Plugin-simple-lightbox.jpg)
+
 # Music Theory 4 Presentation
 
 I write cool music
